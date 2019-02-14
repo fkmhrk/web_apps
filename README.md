@@ -8,3 +8,8 @@ https://fkmhrk.github.io/web-youtube-partial-repeat/
 ## AES encryption/decryption
 
 https://fkmhrk.github.io/JS-AES/dist/index.html
+
+## PokemonGo Stardust and Candy
+
+https://github.com/fkmhrk/pokemongo-stardust-and-candy
+
